@@ -1,16 +1,136 @@
-# React + Vite
+# DETTROIN International School — Website Redesign Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Intern Details
+- **Full Name:** Bhupesh Pise
+- **Intern ID:** N/A
+- **Email Address:** bhupeshpise22@gmail.com
+- **GitHub Username:** @bhupeshpise22
 
-Currently, two official plugins are available:
+## Project Details
+- **Selected Website:** DETTROIN International School Website
+- **Live Demo Link:** https://dettroin-int-bhupesh-website.vercel.app/
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Key Improvements Made
+- Developed a fully responsive school website for desktop, tablet, and mobile devices.
+- Designed a modern hero section with engaging visuals.
+- Added dedicated sections for About, Academics, Facilities, Gallery, Testimonials, Admissions, and Contact.
+- Improved user experience with reusable React components and smooth navigation.
+- Optimized the project structure using reusable components and organized assets.
 
-## React Compiler
+## How to Run Locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Clone the repository
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/bhupeshpise22/DETTROIN-INT-Bhupesh-Website.git
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Navigate to the project
+
+```bash
+cd DETTROIN-INT-Bhupesh-Website
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+---
+
+###  About
+
+![About](screenshots/about.png)
+
+---
+
+### Academics
+
+![Academics](screenshots/academics.png)
+
+---
+
+###  Why Choose Us
+
+![Why Choose Us](screenshots/whyus.png)
+
+---
+
+###  Campus Facilities
+
+![Facilities](screenshots/facilities.png)
+
+---
+
+###  Gallery
+
+![Gallery](screenshots/gallery.png)
+
+---
+
+### 🎤 Testimonials
+
+![Testimonials](screenshots/voices.png)
+
+---
+
+###  Admissions
+
+![Admissions](screenshots/admissions.png)
+
+---
+
+### Contact
+
+![Contact](screenshots/contact.png)
+
+## Project Features
+
+- Responsive Design
+- Modern User Interface
+- Hero Banner
+- About Section
+- Academics Section
+- Campus Facilities
+- Gallery
+- Testimonials
+- Admissions
+- Contact Form
+- Reusable React Components
+
+## Folder Structure
+
+```text
+src/
+│
+├── assets/
+├── components/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## Author
+
+**Bhupesh Pise**
+
+GitHub: https://github.com/bhupeshpise22
